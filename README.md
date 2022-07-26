@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Pedro Borges &#128190
+## Bem-vindo(a) ao perfil do Pedro Borges <span style='font-size:100px;'>&#128190;</span>
 
  <div>
    <a href="https://github.com/phsborges">
